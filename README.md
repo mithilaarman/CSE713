@@ -7,12 +7,12 @@ Link to unlisted YouTube video :
 https://www.youtube.com/playlist?list=PLjjW5oaYWJcnWXMlADFhBRyI_iwjQNCKs
 
 
-Public link to the slide :
+Public link to the all slide :
 https://drive.google.com/drive/folders/1fK45EUesFieVMz_gnOhQoBqgI_vLTv-m?usp=sharing
 
 
 
-Link to the all papers:
+Public link to the all papers:
 https://drive.google.com/drive/folders/1fK45EUesFieVMz_gnOhQoBqgI_vLTv-m?usp=sharing
 
 
