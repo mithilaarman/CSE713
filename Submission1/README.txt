@@ -4,6 +4,7 @@ https://www.youtube.com/playlist?list=PLjjW5oaYWJcnWXMlADFhBRyI_iwjQNCKs
 
 
 Public link to the slide :
+https://drive.google.com/drive/folders/1zexaNnpXquq-uNHEIUI_J1LrWEqBLv39?usp=sharing
 
 
 Paper Title :
