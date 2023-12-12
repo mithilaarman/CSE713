@@ -4,11 +4,11 @@ Matrix Factorization
 
 Completed coursera course using email
 mithila.arman@g.bracu.ac.bd
-https://www.coursera.org/learn/this_is_a_course
+https://www.coursera.org/learn/this_is_a_course...
 
 Completed edx course using email
 mithila.arman@g.bracu.ac.bd
-https://edx.org/learn/this_is_a_course
+https://edx.org/learn/this_is_a_course...
 
 completed youtube video:
 
