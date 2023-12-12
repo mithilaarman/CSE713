@@ -1,3 +1,7 @@
+Did project:
+Movie Recommendation System Using Cosine Similarity, KNN, 
+Matrix Factorization
+
 Completed coursera course using email
 mithila.arman@g.bracu.ac.bd
 https://www.coursera.org/learn/this_is_a_course
@@ -8,7 +12,6 @@ https://edx.org/learn/this_is_a_course
 
 completed youtube video:
 
-did project:
 
 
 was active in slack:
