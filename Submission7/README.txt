@@ -1,35 +1,32 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/read/hyqxmhtcspyx#747af7
 
 Unlisted YouTube video:
-http://youtube....
+https://youtube.com/playlist?list=PLjjW5oaYWJcnWXMlADFhBRyI_iwjQNCKs&feature=shared
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Topic Modeling with Snowball Stemmer, Hidden Markov Models and Explainable AI Lime
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
 
 Paper submission date (to workshop/conference):
-25 October 1999
+13 December 2023
 
-Paper submission ID: (received) from conference/workshop
-1341234
+Paper submission ID: (received) from conference/workshop:
+
 
 Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
+
 
 Conference URL:
-http://confsite/...
+
 
 Group Number:
-0
+16
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
+23266024 Mithila Arman
