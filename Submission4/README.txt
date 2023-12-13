@@ -8,13 +8,14 @@ Conference submitted paper / paper submission / login Link:
 
 
 Paper title:
-Comparing the accuracy of text classification using multiple stemming and machine learning method
+Comparing the Accuracy of Text Classification Using Multiple Stemming and Explainable AI
+Lime, Eli5
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://drive.google.com/drive/folders/1fOn7q3UB6e-dLOa8i4Q7m30Ll9er-URc?usp=sharing
 
 Paper submission date (to workshop/conference):
-13 December 2023
+
 
 Paper submission ID: (received) from conference/workshop:
 
