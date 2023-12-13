@@ -11,10 +11,10 @@ Paper title:
 Topic Modeling with Snowball Stemmer, Hidden Markov Models and Explainable AI Lime
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://drive.google.com/drive/folders/1KXLkmJSGVZIlAzwYL_nOREv74avQfbAz?usp=sharing
 
 Paper submission date (to workshop/conference):
-13 December 2023
+
 
 Paper submission ID: (received) from conference/workshop:
 
