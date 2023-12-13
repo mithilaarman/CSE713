@@ -1,8 +1,8 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://www.youtube.com/playlist?list=PLjjW5oaYWJcnWXMlADFhBRyI_iwjQNCKs
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://drive.google.com/drive/folders/1BOHCZlmqo7G4O4a9nhUxbF1MXJme106Q?usp=sharing
 
 Paper title:
 An Interpretation of Lemmatization and Stemming in Natural Language Processing
