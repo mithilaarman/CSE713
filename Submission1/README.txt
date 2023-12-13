@@ -3,8 +3,8 @@ Link to unlisted YouTube video :
 https://www.youtube.com/playlist?list=PLjjW5oaYWJcnWXMlADFhBRyI_iwjQNCKs
 
 
-Public link to the slide :
-https://drive.google.com/drive/folders/1zexaNnpXquq-uNHEIUI_J1LrWEqBLv39?usp=sharing
+Public Drive link of the slide :
+https://drive.google.com/drive/folders/1fK45EUesFieVMz_gnOhQoBqgI_vLTv-m?usp=sharing
 
 
 Paper Title :
