@@ -4,7 +4,7 @@ https://www.youtube.com/playlist?list=PLjjW5oaYWJcnWXMlADFhBRyI_iwjQNCKs
 
 
 Public Drive link of the slide :
-https://drive.google.com/drive/folders/1fK45EUesFieVMz_gnOhQoBqgI_vLTv-m?usp=sharing
+https://drive.google.com/drive/folders/1zexaNnpXquq-uNHEIUI_J1LrWEqBLv39?usp=sharing
 
 
 Paper Title :
